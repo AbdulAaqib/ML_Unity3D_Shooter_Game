@@ -1,0 +1,29 @@
+{
+    "Roll_NEA": {
+        "checkpoints": [
+            {
+                "steps": 65106,
+                "file_path": "results\\ZombieLevel5\\Roll_NEA\\Roll_NEA-65106.onnx",
+                "reward": 1.0,
+                "creation_time": 1675435363.8881595,
+                "auxillary_file_paths": [
+                    "results\\ZombieLevel5\\Roll_NEA\\Roll_NEA-65106.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 65106,
+            "file_path": "results\\ZombieLevel5\\Roll_NEA.onnx",
+            "reward": 1.0,
+            "creation_time": 1675435363.8881595,
+            "auxillary_file_paths": [
+                "results\\ZombieLevel5\\Roll_NEA\\Roll_NEA-65106.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1"
+    }
+}

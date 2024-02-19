@@ -1,0 +1,29 @@
+{
+    "Roll_NEA": {
+        "checkpoints": [
+            {
+                "steps": 42799,
+                "file_path": "results\\ZombieLevel4\\Roll_NEA\\Roll_NEA-42799.onnx",
+                "reward": 1.0,
+                "creation_time": 1675438915.7545016,
+                "auxillary_file_paths": [
+                    "results\\ZombieLevel4\\Roll_NEA\\Roll_NEA-42799.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 42799,
+            "file_path": "results\\ZombieLevel4\\Roll_NEA.onnx",
+            "reward": 1.0,
+            "creation_time": 1675438915.7545016,
+            "auxillary_file_paths": [
+                "results\\ZombieLevel4\\Roll_NEA\\Roll_NEA-42799.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1"
+    }
+}
